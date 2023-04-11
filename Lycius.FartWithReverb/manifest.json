@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "FartWithReverb.dll",
+  "author": "Lycius",
+  "name": "FartWithReverb",
+  "uniqueName": "Lycius.FartWithReverb",
+  "version": "0.0.1",
+  "owmlVersion": "2.9.0",
+  "dependencies": []
+}
